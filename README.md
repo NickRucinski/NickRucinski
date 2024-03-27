@@ -1,6 +1,6 @@
 //-- Nick Rucinski --//
 
-// @NickRucinski is my school account
+// @NickRucinski is my school account    
 // @NicholasRucinski is my personal account
 
 // Interested in game and low-level development
